@@ -2,9 +2,7 @@ Testing CI/CD
 
 ```sudo apt-get update && sudo apt-get install -y gnupg software-properties-common```
 ' ' '
-
 Codenya
-
 ' ' '
 
 # Getting Started with Create React App
