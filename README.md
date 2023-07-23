@@ -1,5 +1,8 @@
 Testing CI/CD
-'''sudo apt-get update && sudo apt-get install -y gnupg software-properties-common'''
+
+```sudo apt-get update && sudo apt-get install -y gnupg software-properties-common```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
